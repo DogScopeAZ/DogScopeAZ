@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DogScopeAZ
 - 👀 I’m interested in free astro
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me; on the discod, check the website
 
 <!---
